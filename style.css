@@ -1,0 +1,155 @@
+body{
+    background-color: #fff9d8;
+}
+
+header{
+    background-color:#fcd15c;
+    text-align: center;
+    padding: 4px;
+}
+
+h1{
+    color: rgb(255, 174, 0);
+    font-family: Arial, sans-serif;
+    font-size: 40px;
+}
+
+h2{
+    color: rgb(0, 0, 0);
+    font-family: Arial, sans-serif;
+    border-bottom: 2px solid #fcd15c;
+    padding-bottom: 8px;
+    font-size: 25px;
+    
+}
+
+h3{
+    font-family: Arial, sans-serif
+}
+
+p{
+    padding-bottom: 10px;
+}
+
+.citacao {
+    border-bottom: 2px solid #fcd15c;
+    padding-bottom: 5px; 
+    display: inline-block;
+}
+
+h3{
+    text-decoration: underline;
+    text-decoration: rgb(255, 174, 0);
+}
+
+.teste{
+    border-bottom: 2px solid #fcd15c;
+    padding-bottom: 8px;
+}
+
+.menininho{
+    border-radius: 10px;
+}
+
+.kurt{
+    border-radius: 10px;
+}
+
+.agendar{
+    background-color: #fcd15c;
+    color: black;
+    border-radius: 10px;
+    padding: 15px 32px;
+    margin-right: 500px;
+    margin-bottom: 15px;
+}
+
+/*Página Contato*/
+
+.contato{
+    border-bottom: 2px solid #fcd15c;
+}
+
+.botao{
+    background-color: #fcd15c;
+    color: black;
+    border-radius: 10px;
+    padding: 15px 32px;
+    margin-right: 500px;
+    margin-bottom: 15px;
+}
+
+/*Tabela*/
+
+.jwc-table {
+    width: 50%;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+}
+
+.jwc-table th {
+    background-color: #fcd15c;
+    color: #000000;
+    padding: 5px;
+}
+
+.jwc-table td {
+    border: 1px solid #ccc;
+    text-align: center;
+    padding: 5px;
+}
+
+.jwc-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.drmauricio {
+    color: #000000;
+}
+
+
+/* Barra de navegação minimalista */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 40px;
+    background-color: #f9f5d7; 
+    border-bottom: 1px solid #e0c97f; 
+}
+
+.logo {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: none;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 25px;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-links li a {
+    text-decoration: none;
+    font-weight: 500;
+    color: #000000;
+    transition: color 0.3s;
+}
+
+.nav-links li a:hover {
+    color: #d35400;
+}
+
+
+.marcar-consulta {
+    background-color: #fcd15c;
+    color: black;
+    border-radius: 10px;
+    padding: 15px 32px;
+    margin-right: 500px;
+    margin-bottom: 15px;
+}
